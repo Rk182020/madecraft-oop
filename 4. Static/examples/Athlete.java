@@ -4,6 +4,7 @@ public class Athlete {
 
 	private String name;
 	private int speed;
+	
 	private static String marathonLocation;
 	private int bibNumber;
 	private static int runnersInRace;
@@ -11,6 +12,7 @@ public class Athlete {
 	public Athlete(String name, int speed) {
 		this.name = name;
 		this.speed = speed;
+		
 		runnersInRace++;
 		this.bibNumber = runnersInRace;
 	}

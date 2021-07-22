@@ -10,5 +10,8 @@
 	<classpathentry kind="src" path="3. Getters and Setters"/>
 	<classpathentry kind="src" path="4. Static"/>
 	<classpathentry kind="src" path="6. UML"/>
+	<classpathentry kind="src" path="5. Inheritance"/>
+	<classpathentry kind="lib" path="C:/Users/kharyar/Java_Git_clone/junit-4.13.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kharyar/Java_Git_clone/hamcrest-core-1.3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
